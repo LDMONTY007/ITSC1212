@@ -1,0 +1,11 @@
+PseudoCode Moment
+
+1. Create the ArrayUtil Class
+2. Create instance variables
+3. Create Constructors
+4. Create Getters/Setters
+5. Create the 3 required methods. 
+6. Test and ensure everything works.
+7. Create RemoveDuplicates
+8. Create SwapElements
+9. Create Sort Method.

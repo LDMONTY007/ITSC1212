@@ -1,0 +1,6 @@
+First create the required Variables, hourly wage, expenses, total expenses etc.
+second when creating total expenses set total equal to sum of expenses.
+Third Create a hours variable to store the amount of hours they will need to work to meet the OG quota
+Fourth create method to calculate hourly wage and set the hours variable equal to a call for this method.
+Fifth create variable to store hours for savings then repeat calculations. 
+don't forget comments.
